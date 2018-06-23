@@ -1,0 +1,7 @@
+#Root files to ignore
+*.json
+
+#Folders to ignore
+bin
+include
+lib
